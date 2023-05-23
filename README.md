@@ -49,6 +49,12 @@ return the value of label and show it in mobile app we make it about make the la
 Mobile App and can any device in the same network to use the API.
 
 
+# What you will learned between finish this project?
+
+you will learn how to make preprocessing in the image to be ready as input of model how to create CNN Model and train, validation
+and test the dataset and how to save best weights and load it this learn in part of model in the part of mobile app will learn
+build splach screen to see in 5 second and learn how to upload image from the gallery and the last impart how to connect Mobile
+App with Model using Flask API.
 
 
 
