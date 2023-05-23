@@ -37,7 +37,8 @@ of image and show it in Mobile App.
 
 ## The two screen of Mobile App:
 
-<img src  = ![WhatsApp Image 2023-05-23 at 6 59 12 PM](https://github.com/AhmedAbdAlkreem/COVID-19/assets/109450704/312d6b99-d849-4f6c-8e58-34d2370e7e48) width = 200, height = 500>
+
+![WhatsApp Image 2023-05-23 at 6 59 12 PM](https://github.com/AhmedAbdAlkreem/COVID-19/assets/109450704/312d6b99-d849-4f6c-8e58-34d2370e7e48) 
 
 ![WhatsApp Image 2023-05-23 at 6 59 12 PM(1)](https://github.com/AhmedAbdAlkreem/COVID-19/assets/109450704/5e5f2934-8067-46dd-ad14-ff0a7d99bf0d)
 
